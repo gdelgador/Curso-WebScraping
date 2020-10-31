@@ -1,0 +1,1789 @@
+[ {
+    "id" : 226880945,
+    "name" : "Establishment ID",
+    "dataTypeName" : "text",
+    "fieldName" : "establishment_id",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 32153148,
+    "width" : 100,
+    "cachedContents" : {
+      "largest" : "997",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "36796",
+        "count" : "20"
+      }, {
+        "item" : "36780",
+        "count" : "16"
+      }, {
+        "item" : "22448",
+        "count" : "15"
+      }, {
+        "item" : "18623",
+        "count" : "14"
+      }, {
+        "item" : "26874",
+        "count" : "14"
+      }, {
+        "item" : "26679",
+        "count" : "13"
+      }, {
+        "item" : "38439",
+        "count" : "13"
+      }, {
+        "item" : "20659",
+        "count" : "13"
+      }, {
+        "item" : "11509",
+        "count" : "13"
+      }, {
+        "item" : "1121",
+        "count" : "12"
+      }, {
+        "item" : "19153",
+        "count" : "11"
+      }, {
+        "item" : "30275",
+        "count" : "11"
+      }, {
+        "item" : "28692",
+        "count" : "11"
+      }, {
+        "item" : "33172",
+        "count" : "11"
+      }, {
+        "item" : "11211",
+        "count" : "11"
+      }, {
+        "item" : "37173",
+        "count" : "11"
+      }, {
+        "item" : "23537",
+        "count" : "11"
+      }, {
+        "item" : "30373",
+        "count" : "11"
+      }, {
+        "item" : "17453",
+        "count" : "10"
+      }, {
+        "item" : "1066",
+        "count" : "10"
+      } ],
+      "smallest" : "100",
+      "not_null" : "13269",
+      "cardinality" : "4047"
+    },
+    "format" : { }
+  }, {
+    "id" : 226880848,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "fieldName" : "name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974705,
+    "width" : 148,
+    "cachedContents" : {
+      "largest" : "ZOYA KITCHEN",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "POPEYES",
+        "count" : "47"
+      }, {
+        "item" : "MOBY DICK HOUSE OF KABOB",
+        "count" : "35"
+      }, {
+        "item" : "CHICK-FIL-A",
+        "count" : "25"
+      }, {
+        "item" : "JERSEY MIKE'S SUBS",
+        "count" : "24"
+      }, {
+        "item" : "WINGSTOP",
+        "count" : "23"
+      }, {
+        "item" : "SUBWAY",
+        "count" : "22"
+      }, {
+        "item" : "&PIZZA",
+        "count" : "21"
+      }, {
+        "item" : "SOCIETY RESTAURANT & LOUNGE",
+        "count" : "21"
+      }, {
+        "item" : "BENTO SUSHI",
+        "count" : "20"
+      }, {
+        "item" : "CAFE RIO MEXICAN GRILL",
+        "count" : "20"
+      }, {
+        "item" : "BANANA LEAVES ASIAN CAFE BETHESDA",
+        "count" : "19"
+      }, {
+        "item" : "CAVA MEZZE GRILL",
+        "count" : "19"
+      }, {
+        "item" : "MOD PIZZA",
+        "count" : "19"
+      }, {
+        "item" : "IHOP",
+        "count" : "19"
+      }, {
+        "item" : "WELLBEING CAFE",
+        "count" : "17"
+      }, {
+        "item" : "SWEET FROG",
+        "count" : "17"
+      }, {
+        "item" : "POLLO CAMPERO",
+        "count" : "17"
+      }, {
+        "item" : "CRISP & JUICY",
+        "count" : "17"
+      }, {
+        "item" : "SWEETGREEN",
+        "count" : "17"
+      }, {
+        "item" : "TROPICAL SMOOTHIE CAFE",
+        "count" : "16"
+      } ],
+      "smallest" : "168 ASIAN BURRITO",
+      "not_null" : "13269",
+      "cardinality" : "3718"
+    },
+    "format" : { }
+  }, {
+    "id" : 226880849,
+    "name" : "Address 1",
+    "dataTypeName" : "text",
+    "fieldName" : "address1",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974706,
+    "width" : 196,
+    "cachedContents" : {
+      "largest" : "9 DAWSON AVE",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "7101 DEMOCRACY BLVD",
+        "count" : "164"
+      }, {
+        "item" : "11160 VEIRS MILL RD",
+        "count" : "99"
+      }, {
+        "item" : "7101 DEMOCRACY BLVD.",
+        "count" : "43"
+      }, {
+        "item" : "701 RUSSELL AVE",
+        "count" : "42"
+      }, {
+        "item" : "11160 VEIRS MILL RD.",
+        "count" : "33"
+      }, {
+        "item" : "701 RUSSELL AVE.",
+        "count" : "33"
+      }, {
+        "item" : "7621 RICKENBACKER DR",
+        "count" : "31"
+      }, {
+        "item" : "8035 SNOUFFER SCHOOL RD",
+        "count" : "30"
+      }, {
+        "item" : "615 S. FREDERICK AVE",
+        "count" : "28"
+      }, {
+        "item" : "12613 WISTERIA DR.",
+        "count" : "28"
+      }, {
+        "item" : "9812 FALLS RD.",
+        "count" : "27"
+      }, {
+        "item" : "10400 OLD GEORGETOWN RD",
+        "count" : "27"
+      }, {
+        "item" : "1800 ROCKVILLE PIKE",
+        "count" : "26"
+      }, {
+        "item" : "7845-D AIRPARK RD",
+        "count" : "24"
+      }, {
+        "item" : "8500 RIVER RD.",
+        "count" : "24"
+      }, {
+        "item" : "9811 WASHINGTONIAN BLVD.",
+        "count" : "23"
+      }, {
+        "item" : "8661 COLESVILLE RD",
+        "count" : "21"
+      }, {
+        "item" : "18140 VILLAGE MART DR",
+        "count" : "21"
+      }, {
+        "item" : "8229 GEORGIA AVE",
+        "count" : "21"
+      }, {
+        "item" : "22705 CLARKSBURG RD",
+        "count" : "19"
+      } ],
+      "smallest" : "10000 NEW HAMPSHIRE AVE",
+      "not_null" : "13269",
+      "cardinality" : "3516"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880850,
+    "name" : "Address 2",
+    "dataTypeName" : "text",
+    "fieldName" : "address2",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974707,
+    "width" : 196,
+    "cachedContents" : {
+      "largest" : "Units #A & #B",
+      "non_null" : "947",
+      "null" : "12254",
+      "top" : [ {
+        "item" : "STE 100",
+        "count" : "20"
+      }, {
+        "item" : "STE B",
+        "count" : "20"
+      }, {
+        "item" : "#500",
+        "count" : "15"
+      }, {
+        "item" : "STE C",
+        "count" : "15"
+      }, {
+        "item" : "STE I",
+        "count" : "13"
+      }, {
+        "item" : "STE 104",
+        "count" : "12"
+      }, {
+        "item" : "# B",
+        "count" : "11"
+      }, {
+        "item" : "#100",
+        "count" : "10"
+      }, {
+        "item" : "UNIT G",
+        "count" : "10"
+      }, {
+        "item" : "UNIT J",
+        "count" : "10"
+      }, {
+        "item" : "STE D",
+        "count" : "10"
+      }, {
+        "item" : "UNIT C& D",
+        "count" : "10"
+      }, {
+        "item" : "#G",
+        "count" : "10"
+      }, {
+        "item" : "BLDG 3, UNIT A",
+        "count" : "9"
+      }, {
+        "item" : "BUILDING B",
+        "count" : "9"
+      }, {
+        "item" : "UNIT E",
+        "count" : "9"
+      }, {
+        "item" : "STE A",
+        "count" : "9"
+      }, {
+        "item" : "STE H",
+        "count" : "9"
+      }, {
+        "item" : "#H",
+        "count" : "9"
+      }, {
+        "item" : "# 100",
+        "count" : "9"
+      } ],
+      "smallest" : "100",
+      "not_null" : "925",
+      "cardinality" : "229"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880851,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974708,
+    "width" : 148,
+    "cachedContents" : {
+      "largest" : "WHEATON",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "SILVER SPRING",
+        "count" : "2976"
+      }, {
+        "item" : "GAITHERSBURG",
+        "count" : "2755"
+      }, {
+        "item" : "ROCKVILLE",
+        "count" : "2215"
+      }, {
+        "item" : "BETHESDA",
+        "count" : "1732"
+      }, {
+        "item" : "GERMANTOWN",
+        "count" : "823"
+      }, {
+        "item" : "POTOMAC",
+        "count" : "400"
+      }, {
+        "item" : "OLNEY",
+        "count" : "373"
+      }, {
+        "item" : "TAKOMA PARK",
+        "count" : "318"
+      }, {
+        "item" : "WHEATON",
+        "count" : "276"
+      }, {
+        "item" : "CHEVY CHASE",
+        "count" : "244"
+      }, {
+        "item" : "KENSINGTON",
+        "count" : "155"
+      }, {
+        "item" : "DAMASCUS",
+        "count" : "132"
+      }, {
+        "item" : "DERWOOD",
+        "count" : "131"
+      }, {
+        "item" : "BURTONSVILLE",
+        "count" : "118"
+      }, {
+        "item" : "CLARKSBURG",
+        "count" : "108"
+      }, {
+        "item" : "POOLESVILLE",
+        "count" : "100"
+      }, {
+        "item" : "MONTGOMERY VILLAGE",
+        "count" : "49"
+      }, {
+        "item" : "SANDY SPRING",
+        "count" : "45"
+      }, {
+        "item" : "BROOKEVILLE",
+        "count" : "32"
+      }, {
+        "item" : "ASHTON",
+        "count" : "29"
+      } ],
+      "smallest" : "ASHTON",
+      "not_null" : "13269",
+      "cardinality" : "46"
+    },
+    "format" : { }
+  }, {
+    "id" : 226880852,
+    "name" : "Zip",
+    "dataTypeName" : "text",
+    "fieldName" : "zip",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974709,
+    "width" : 136,
+    "cachedContents" : {
+      "largest" : "21771",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "20910",
+        "count" : "1169"
+      }, {
+        "item" : "20878",
+        "count" : "1103"
+      }, {
+        "item" : "20814",
+        "count" : "1061"
+      }, {
+        "item" : "20850",
+        "count" : "991"
+      }, {
+        "item" : "20877",
+        "count" : "965"
+      }, {
+        "item" : "20852",
+        "count" : "881"
+      }, {
+        "item" : "20902",
+        "count" : "709"
+      }, {
+        "item" : "20879",
+        "count" : "589"
+      }, {
+        "item" : "20874",
+        "count" : "570"
+      }, {
+        "item" : "20906",
+        "count" : "481"
+      }, {
+        "item" : "20817",
+        "count" : "479"
+      }, {
+        "item" : "20854",
+        "count" : "445"
+      }, {
+        "item" : "20904",
+        "count" : "427"
+      }, {
+        "item" : "20832",
+        "count" : "367"
+      }, {
+        "item" : "20912",
+        "count" : "320"
+      }, {
+        "item" : "20815",
+        "count" : "268"
+      }, {
+        "item" : "20901",
+        "count" : "266"
+      }, {
+        "item" : "20876",
+        "count" : "256"
+      }, {
+        "item" : "20855",
+        "count" : "176"
+      }, {
+        "item" : "20895",
+        "count" : "159"
+      } ],
+      "smallest" : "20705",
+      "not_null" : "13268",
+      "cardinality" : "57"
+    },
+    "format" : { }
+  }, {
+    "id" : 226880853,
+    "name" : "Inspection Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "inspectiondate",
+    "position" : 7,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 3974710,
+    "width" : 268,
+    "cachedContents" : {
+      "largest" : "2020-10-29T00:00:00.000",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2020-04-15T00:00:00.000",
+        "count" : "77"
+      }, {
+        "item" : "2020-02-20T00:00:00.000",
+        "count" : "67"
+      }, {
+        "item" : "2020-04-16T00:00:00.000",
+        "count" : "64"
+      }, {
+        "item" : "2020-02-13T00:00:00.000",
+        "count" : "64"
+      }, {
+        "item" : "2019-12-04T00:00:00.000",
+        "count" : "54"
+      }, {
+        "item" : "2020-02-11T00:00:00.000",
+        "count" : "54"
+      }, {
+        "item" : "2019-02-28T00:00:00.000",
+        "count" : "52"
+      }, {
+        "item" : "2020-02-19T00:00:00.000",
+        "count" : "51"
+      }, {
+        "item" : "2018-12-06T00:00:00.000",
+        "count" : "50"
+      }, {
+        "item" : "2019-12-05T00:00:00.000",
+        "count" : "49"
+      }, {
+        "item" : "2019-12-10T00:00:00.000",
+        "count" : "49"
+      }, {
+        "item" : "2020-03-05T00:00:00.000",
+        "count" : "49"
+      }, {
+        "item" : "2020-03-04T00:00:00.000",
+        "count" : "49"
+      }, {
+        "item" : "2019-01-16T00:00:00.000",
+        "count" : "49"
+      }, {
+        "item" : "2020-02-25T00:00:00.000",
+        "count" : "48"
+      }, {
+        "item" : "2020-02-12T00:00:00.000",
+        "count" : "48"
+      }, {
+        "item" : "2020-04-20T00:00:00.000",
+        "count" : "48"
+      }, {
+        "item" : "2019-10-29T00:00:00.000",
+        "count" : "48"
+      }, {
+        "item" : "2020-01-16T00:00:00.000",
+        "count" : "47"
+      }, {
+        "item" : "2020-03-03T00:00:00.000",
+        "count" : "47"
+      } ],
+      "smallest" : "2018-11-01T00:00:00.000",
+      "not_null" : "13269",
+      "cardinality" : "571"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880854,
+    "name" : "Inspection Results",
+    "dataTypeName" : "text",
+    "description" : "This is the overall result of the inspection.  Note: A closed facility may have re-opened and the re-inspection results have not been posted to this site yet.  Please contact a closed establishment to determine if they have been re-opened for business.",
+    "fieldName" : "inspectionresults",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974725,
+    "width" : 160,
+    "cachedContents" : {
+      "largest" : "No Critical Violations Noted",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "No Critical Violations Noted",
+        "count" : "9323"
+      }, {
+        "item" : "Critical Violations Corrected",
+        "count" : "3757"
+      }, {
+        "item" : "Facility Closed",
+        "count" : "121"
+      } ],
+      "smallest" : "Critical Violations Corrected",
+      "not_null" : "13269",
+      "cardinality" : "3"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880855,
+    "name" : "Food from Approved Source (C)",
+    "dataTypeName" : "text",
+    "description" : "All food, or food ingredients, must derive from a source regulated by an approving authority (private homes or unlicensed establishments are not approved sources) and are not adulterated or misbranded. ",
+    "fieldName" : "violation1",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974711,
+    "width" : 220,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13137"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "64"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880856,
+    "name" : "Food Protected from Contamination (C)",
+    "dataTypeName" : "text",
+    "description" : "Food deemed unfit for human consumption or otherwise is poisonous or a deleterious substances, is diseased, filthy, putrid, or decomposed. ",
+    "fieldName" : "violation2",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974712,
+    "width" : 220,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "12711"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "490"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880857,
+    "name" : "Ill Workers Restricted (C)",
+    "dataTypeName" : "text",
+    "description" : "A food handler must not serve or handle food intended for public consumption if known or suspected of having a disease that is transmissible by food. ",
+    "fieldName" : "violation3",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974713,
+    "width" : 220,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13199"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "2"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880858,
+    "name" : "Proper Hand Washing (C)",
+    "dataTypeName" : "text",
+    "description" : "Employees must wash hands with soap and warm water prior to handling exposed foods or food-contact surfaces, before starting work, as often as required to remove soil and contamination, after using toilet facilities, and before/between glove use.",
+    "fieldName" : "violation4",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974714,
+    "width" : 220,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "12763"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "438"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880859,
+    "name" : "Cooling Time and Temperature (C)",
+    "dataTypeName" : "text",
+    "description" : "Potentially hazardous food’s internal temperature is cooled to the proper temperatures within the required time frame. ",
+    "fieldName" : "violation5",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974715,
+    "width" : 220,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13015"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "186"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880860,
+    "name" : "Cold Holding Temperature (C)",
+    "dataTypeName" : "text",
+    "description" : "Cold food must be held at or below required temperature during storage, display, or transport. ",
+    "fieldName" : "violation6a",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974716,
+    "width" : 232,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "10842"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "2359"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880861,
+    "name" : "Hot Holding Temperature (C)",
+    "dataTypeName" : "text",
+    "description" : "Hot food must be held at or above the required temperature during storage, display, or transport. ",
+    "fieldName" : "violation6b",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974717,
+    "width" : 232,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "12349"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "852"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880862,
+    "name" : "Cooking Time and Temperature (C)",
+    "dataTypeName" : "text",
+    "description" : "Potentially hazardous food must be cooked to a minimum internal temperature for a required time period. ",
+    "fieldName" : "violation7a",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974718,
+    "width" : 232,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13165"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "36"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880863,
+    "name" : "Reheating Time and Temperature (C)",
+    "dataTypeName" : "text",
+    "description" : "Potentially hazardous food must be reheated to a minimum internal temperature within a specified time period and maintained at that temperature for a designated time. ",
+    "fieldName" : "violation7b",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974719,
+    "width" : 232,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13136"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "65"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880864,
+    "name" : "Hot and Cold Running Water Provided (C)",
+    "dataTypeName" : "text",
+    "description" : "All food service establishments must be supplied with hot and cold running water under pressure from an approved source. ",
+    "fieldName" : "violation8",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974720,
+    "width" : 250,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13103"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "98"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880865,
+    "name" : "Proper Sewage Disposal (C)",
+    "dataTypeName" : "text",
+    "description" : "All sewage must be properly disposed in a manner than complies with all applicable approving authorities and remain free from any part of the system overflowing.",
+    "fieldName" : "violation9",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974721,
+    "width" : 220,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13160"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "41"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880866,
+    "name" : "Toxic Substances & Pesticides",
+    "dataTypeName" : "text",
+    "description" : "Toxic substances and pesticides are properly labeled and stored to prevent contamination of food or food preparation surfaces.  This column only reflects inspection results completed after 11/06/12.",
+    "fieldName" : "violation20",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4351737,
+    "width" : 195,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13199"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "2"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880867,
+    "name" : "Rodent and Insects",
+    "dataTypeName" : "text",
+    "description" : "Effective control measures are used to eliminate and prevent rodents, flies, roaches and other vermin from the building.  This column only reflects inspection results completed after 11/06/12.",
+    "fieldName" : "violation22",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4351738,
+    "width" : 154,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "11328"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "1873"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880868,
+    "name" : "Nutritional Labeling",
+    "dataTypeName" : "text",
+    "description" : "Montgomery County requires that all restaurant chains with 10 or more locations nationally must list on the menu or menu board the calories for each menu item and have available upon request additional written nutritional information. ",
+    "fieldName" : "violationmenu",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4396792,
+    "width" : 153,
+    "cachedContents" : {
+      "largest" : "Not applicable",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Not applicable",
+        "count" : "12616"
+      }, {
+        "item" : "In Compliance",
+        "count" : "585"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880869,
+    "name" : "Trans Fat Ban",
+    "dataTypeName" : "text",
+    "description" : "Montgomery County prohibits the storage, use or serving of any food item containing 0.5 grams or more of partially hydrogenated vegetable oil, shortening or margarine.  Does not apply to any product sold in the manufacture’s original sealed packaging.",
+    "fieldName" : "violationtransfat",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974722,
+    "width" : 145,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13054"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "147"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880870,
+    "name" : "No-Smoking Sign Posted",
+    "dataTypeName" : "text",
+    "description" : "Smoking is prohibited inside and eating or drinking establishment.  No Smoking signs must be clearly posted.",
+    "fieldName" : "violationsmoking",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974723,
+    "width" : 188,
+    "cachedContents" : {
+      "largest" : "Out of Compliance",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "In Compliance",
+        "count" : "13030"
+      }, {
+        "item" : "Out of Compliance",
+        "count" : "171"
+      } ],
+      "smallest" : "In Compliance",
+      "not_null" : "13269",
+      "cardinality" : "2"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880871,
+    "name" : "Inspection Type",
+    "dataTypeName" : "text",
+    "fieldName" : "inspectiontype",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974726,
+    "width" : 172,
+    "cachedContents" : {
+      "largest" : "Visit/No Action",
+      "non_null" : "13110",
+      "null" : "91",
+      "top" : [ {
+        "item" : "Monitoring",
+        "count" : "4754"
+      }, {
+        "item" : "Comprehensive",
+        "count" : "4223"
+      }, {
+        "item" : "Food Complaint",
+        "count" : "747"
+      }, {
+        "item" : "Reinspection",
+        "count" : "639"
+      }, {
+        "item" : "Pre-Opening - Environmental",
+        "count" : "460"
+      }, {
+        "item" : "Other",
+        "count" : "420"
+      }, {
+        "item" : "Monitoring w/Complaint Investigation",
+        "count" : "409"
+      }, {
+        "item" : "Environmental",
+        "count" : "382"
+      }, {
+        "item" : "Re-inspection Billable",
+        "count" : "290"
+      }, {
+        "item" : "Complaint Invest w/Comprehensive",
+        "count" : "234"
+      }, {
+        "item" : "Visit/No Action",
+        "count" : "206"
+      }, {
+        "item" : "Change of Ownership - Environmental",
+        "count" : "176"
+      }, {
+        "item" : "HACCP (Renewed every 5 yrs)",
+        "count" : "82"
+      }, {
+        "item" : "Fire Call",
+        "count" : "57"
+      }, {
+        "item" : "Plans Approved",
+        "count" : "12"
+      }, {
+        "item" : "Foodborne Outbreak Investigation",
+        "count" : "8"
+      }, {
+        "item" : "Plan Review - Field",
+        "count" : "4"
+      }, {
+        "item" : "Consultation",
+        "count" : "4"
+      }, {
+        "item" : "HACCP - State Approved (Renewed every 5 yrs)",
+        "count" : "1"
+      }, {
+        "item" : "Annual",
+        "count" : "1"
+      } ],
+      "smallest" : "Annual",
+      "not_null" : "13133",
+      "cardinality" : "21"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880872,
+    "name" : "Owner",
+    "dataTypeName" : "text",
+    "fieldName" : "organization",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974727,
+    "width" : 244,
+    "cachedContents" : {
+      "largest" : "ZURIASH WORK HAWKINS",
+      "non_null" : "13199",
+      "null" : "2",
+      "top" : [ {
+        "item" : "MONTGOMERY COUNTY PUBLIC SCHOOLS",
+        "count" : "539"
+      }, {
+        "item" : "STARBUCKS CORP LICENSE SERVICE",
+        "count" : "140"
+      }, {
+        "item" : "GIANT OF MARYLAND, LLC",
+        "count" : "135"
+      }, {
+        "item" : "NAI SATURN EASTERN LLC",
+        "count" : "90"
+      }, {
+        "item" : "MARYLAND CVS PHARMACY, LLC.",
+        "count" : "67"
+      }, {
+        "item" : "CHIPOTLE MEXICAN GRILL",
+        "count" : "60"
+      }, {
+        "item" : "NPC QUALITY BURGERS INC",
+        "count" : "53"
+      }, {
+        "item" : "COLONEL'S LIMITED, LLC",
+        "count" : "35"
+      }, {
+        "item" : "MCDONALD'S CORPORATION",
+        "count" : "34"
+      }, {
+        "item" : "GIANT OF MARYLAND LLC",
+        "count" : "32"
+      }, {
+        "item" : "AVA MD LLC",
+        "count" : "31"
+      }, {
+        "item" : "HARRIS TEETER LLC",
+        "count" : "30"
+      }, {
+        "item" : "TARGET CORPORATION",
+        "count" : "29"
+      }, {
+        "item" : "TEAM WASHINGTON, INC.",
+        "count" : "28"
+      }, {
+        "item" : "LEMEK, LLC",
+        "count" : "28"
+      }, {
+        "item" : "HARRIS TEETER, LLC",
+        "count" : "25"
+      }, {
+        "item" : "POTOMAC FOODS COMPANY",
+        "count" : "25"
+      }, {
+        "item" : "MONTGOMERY COUNTY PUBLIC SCHOOL",
+        "count" : "23"
+      }, {
+        "item" : "WALGREEN CO",
+        "count" : "22"
+      }, {
+        "item" : "BENTO NOUVEAU INC",
+        "count" : "20"
+      } ],
+      "smallest" : "121 FOOD & SERVICE INC",
+      "not_null" : "13269",
+      "cardinality" : "3335"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880873,
+    "name" : "Category",
+    "dataTypeName" : "text",
+    "fieldName" : "category",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974728,
+    "width" : 126,
+    "cachedContents" : {
+      "largest" : "Snack Bar",
+      "non_null" : "12440",
+      "null" : "761",
+      "top" : [ {
+        "item" : "Restaurant",
+        "count" : "7605"
+      }, {
+        "item" : "Market",
+        "count" : "3088"
+      }, {
+        "item" : "Public School- Elementary",
+        "count" : "355"
+      }, {
+        "item" : "Carry Out",
+        "count" : "285"
+      }, {
+        "item" : "Caterer",
+        "count" : "222"
+      }, {
+        "item" : "Snack Bar",
+        "count" : "147"
+      }, {
+        "item" : "Assisted Living",
+        "count" : "111"
+      }, {
+        "item" : "Public School- Middle",
+        "count" : "108"
+      }, {
+        "item" : "Private School",
+        "count" : "100"
+      }, {
+        "item" : "Nursing Home",
+        "count" : "99"
+      }, {
+        "item" : "Non-Profit",
+        "count" : "88"
+      }, {
+        "item" : "Public School- High",
+        "count" : "76"
+      }, {
+        "item" : "Institution",
+        "count" : "48"
+      }, {
+        "item" : "Hospital",
+        "count" : "37"
+      }, {
+        "item" : "Public School- Other",
+        "count" : "23"
+      }, {
+        "item" : "Farmers Market",
+        "count" : "20"
+      }, {
+        "item" : "Seasonal",
+        "count" : "17"
+      }, {
+        "item" : "Excluded Organization",
+        "count" : "9"
+      }, {
+        "item" : "Mobile Unit",
+        "count" : "2"
+      } ],
+      "smallest" : "Assisted Living",
+      "not_null" : "12468",
+      "cardinality" : "19"
+    },
+    "format" : { }
+  }, {
+    "id" : 226880874,
+    "name" : "Type",
+    "dataTypeName" : "text",
+    "fieldName" : "type",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3974729,
+    "width" : 82,
+    "cachedContents" : {
+      "largest" : "Food",
+      "non_null" : "13201",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Food",
+        "count" : "13201"
+      } ],
+      "smallest" : "Food",
+      "not_null" : "13269",
+      "cardinality" : "1"
+    },
+    "format" : { }
+  }, {
+    "id" : 226880875,
+    "name" : "Latitude",
+    "dataTypeName" : "number",
+    "fieldName" : "latitude",
+    "position" : 29,
+    "renderTypeName" : "number",
+    "tableColumnId" : 3974730,
+    "width" : 120,
+    "cachedContents" : {
+      "largest" : "39.3446",
+      "non_null" : "13190",
+      "average" : "39.07588701858736",
+      "null" : "11",
+      "top" : [ {
+        "item" : "39.037",
+        "count" : "112"
+      }, {
+        "item" : "39.1534",
+        "count" : "91"
+      }, {
+        "item" : "39.0221",
+        "count" : "70"
+      }, {
+        "item" : "39.025",
+        "count" : "69"
+      }, {
+        "item" : "39.0233",
+        "count" : "60"
+      }, {
+        "item" : "38.981",
+        "count" : "55"
+      }, {
+        "item" : "39.0603",
+        "count" : "49"
+      }, {
+        "item" : "38.9823",
+        "count" : "47"
+      }, {
+        "item" : "39.1611",
+        "count" : "46"
+      }, {
+        "item" : "38.9911",
+        "count" : "46"
+      }, {
+        "item" : "39.0406",
+        "count" : "45"
+      }, {
+        "item" : "39.0405",
+        "count" : "45"
+      }, {
+        "item" : "39.1709",
+        "count" : "43"
+      }, {
+        "item" : "39.0967",
+        "count" : "42"
+      }, {
+        "item" : "38.9962",
+        "count" : "42"
+      }, {
+        "item" : "39.0404",
+        "count" : "41"
+      }, {
+        "item" : "38.9931",
+        "count" : "40"
+      }, {
+        "item" : "39.0409",
+        "count" : "37"
+      }, {
+        "item" : "39.1532",
+        "count" : "36"
+      }, {
+        "item" : "39.1443",
+        "count" : "36"
+      } ],
+      "smallest" : "38.9493",
+      "not_null" : "13250",
+      "sum" : "525570.6804",
+      "cardinality" : "1628"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880876,
+    "name" : "Longitude",
+    "dataTypeName" : "number",
+    "fieldName" : "longitude",
+    "position" : 30,
+    "renderTypeName" : "number",
+    "tableColumnId" : 3974731,
+    "width" : 114,
+    "cachedContents" : {
+      "largest" : "77.1967",
+      "non_null" : "13190",
+      "average" : "-77.02773523420074",
+      "null" : "11",
+      "top" : [ {
+        "item" : "-77.0539",
+        "count" : "109"
+      }, {
+        "item" : "-77.204",
+        "count" : "96"
+      }, {
+        "item" : "-77.0262",
+        "count" : "76"
+      }, {
+        "item" : "-77.1471",
+        "count" : "70"
+      }, {
+        "item" : "-77.1486",
+        "count" : "53"
+      }, {
+        "item" : "-77.1483",
+        "count" : "51"
+      }, {
+        "item" : "-77.0968",
+        "count" : "44"
+      }, {
+        "item" : "-77.0263",
+        "count" : "44"
+      }, {
+        "item" : "-77.027",
+        "count" : "43"
+      }, {
+        "item" : "-77.0261",
+        "count" : "40"
+      }, {
+        "item" : "-77.1765",
+        "count" : "39"
+      }, {
+        "item" : "-77.0991",
+        "count" : "39"
+      }, {
+        "item" : "-77.198",
+        "count" : "37"
+      }, {
+        "item" : "-77.0921",
+        "count" : "36"
+      }, {
+        "item" : "-77.0965",
+        "count" : "35"
+      }, {
+        "item" : "-77.1528",
+        "count" : "34"
+      }, {
+        "item" : "-77.1212",
+        "count" : "33"
+      }, {
+        "item" : "-77.1588",
+        "count" : "33"
+      }, {
+        "item" : "-77.0269",
+        "count" : "31"
+      }, {
+        "item" : "-77.0646",
+        "count" : "31"
+      } ],
+      "smallest" : "-77.5193",
+      "not_null" : "13250",
+      "sum" : "-1036023.0389",
+      "cardinality" : "1887"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 226880877,
+    "name" : "Location",
+    "dataTypeName" : "point",
+    "fieldName" : "location",
+    "position" : 31,
+    "renderTypeName" : "point",
+    "tableColumnId" : 4177908,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "13190",
+      "null" : "11",
+      "top" : [ {
+        "item" : {
+          "coordinates" : [ -77.0539, 39.037 ],
+          "type" : "Point"
+        },
+        "count" : "109"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.204, 39.1534 ],
+          "type" : "Point"
+        },
+        "count" : "85"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.1471, 39.0221 ],
+          "type" : "Point"
+        },
+        "count" : "67"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.1486, 39.0233 ],
+          "type" : "Point"
+        },
+        "count" : "53"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.1483, 39.025 ],
+          "type" : "Point"
+        },
+        "count" : "51"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.1212, 39.0603 ],
+          "type" : "Point"
+        },
+        "count" : "29"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.027, 38.9971 ],
+          "type" : "Point"
+        },
+        "count" : "26"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.0263, 38.9931 ],
+          "type" : "Point"
+        },
+        "count" : "24"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.2607, 39.1709 ],
+          "type" : "Point"
+        },
+        "count" : "24"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.1765, 38.9962 ],
+          "type" : "Point"
+        },
+        "count" : "24"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.2863, 39.2296 ],
+          "type" : "Point"
+        },
+        "count" : "23"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.1932, 39.0967 ],
+          "type" : "Point"
+        },
+        "count" : "23"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.1607, 39.1707 ],
+          "type" : "Point"
+        },
+        "count" : "21"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.1194, 38.95 ],
+          "type" : "Point"
+        },
+        "count" : "21"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.0262, 38.9926 ],
+          "type" : "Point"
+        },
+        "count" : "21"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.0649, 39.1532 ],
+          "type" : "Point"
+        },
+        "count" : "21"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.4125, 39.1443 ],
+          "type" : "Point"
+        },
+        "count" : "20"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.1628, 39.1611 ],
+          "type" : "Point"
+        },
+        "count" : "20"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.0996, 38.9876 ],
+          "type" : "Point"
+        },
+        "count" : "19"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.2721, 39.1788 ],
+          "type" : "Point"
+        },
+        "count" : "19"
+      } ],
+      "not_null" : "13250",
+      "cardinality" : "3402"
+    },
+    "format" : { }
+  }, {
+    "id" : 432203007,
+    "name" : "Location (address)",
+    "dataTypeName" : "text",
+    "fieldName" : "location_address",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 88871474,
+    "cachedContents" : {
+      "largest" : "",
+      "non_null" : "7949",
+      "null" : "5252",
+      "top" : [ {
+        "item" : "",
+        "count" : "7949"
+      } ],
+      "not_null" : "1242",
+      "smallest" : "",
+      "cardinality" : "1"
+    },
+    "format" : { }
+  }, {
+    "id" : 432203005,
+    "name" : "Location (city)",
+    "dataTypeName" : "text",
+    "fieldName" : "location_city",
+    "position" : 33,
+    "renderTypeName" : "text",
+    "tableColumnId" : 88871472,
+    "cachedContents" : {
+      "largest" : "",
+      "non_null" : "7949",
+      "null" : "5252",
+      "top" : [ {
+        "item" : "",
+        "count" : "7949"
+      } ],
+      "not_null" : "1242",
+      "smallest" : "",
+      "cardinality" : "1"
+    },
+    "format" : { }
+  }, {
+    "id" : 432203009,
+    "name" : "Location (state)",
+    "dataTypeName" : "text",
+    "fieldName" : "location_state",
+    "position" : 34,
+    "renderTypeName" : "text",
+    "tableColumnId" : 88871476,
+    "cachedContents" : {
+      "largest" : "",
+      "non_null" : "7949",
+      "null" : "5252",
+      "top" : [ {
+        "item" : "",
+        "count" : "7949"
+      } ],
+      "not_null" : "1242",
+      "smallest" : "",
+      "cardinality" : "1"
+    },
+    "format" : { }
+  }, {
+    "id" : 432203008,
+    "name" : "Location (zip)",
+    "dataTypeName" : "text",
+    "fieldName" : "location_zip",
+    "position" : 35,
+    "renderTypeName" : "text",
+    "tableColumnId" : 88871475,
+    "cachedContents" : {
+      "largest" : "",
+      "non_null" : "7949",
+      "null" : "5252",
+      "top" : [ {
+        "item" : "",
+        "count" : "7949"
+      } ],
+      "not_null" : "1242",
+      "smallest" : "",
+      "cardinality" : "1"
+    },
+    "format" : { }
+  }, {
+    "id" : 432203010,
+    "name" : "Council Districts",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_vu5j_pcmz",
+    "position" : 36,
+    "renderTypeName" : "number",
+    "tableColumnId" : 88871477,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_vu5j-pcmz",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 432203011,
+    "name" : "Councils",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_tx5f_5em3",
+    "position" : 37,
+    "renderTypeName" : "number",
+    "tableColumnId" : 88871478,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_tx5f-5em3",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 432203012,
+    "name" : "Communities",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_kbsp_ykn9",
+    "position" : 38,
+    "renderTypeName" : "number",
+    "tableColumnId" : 88871479,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_kbsp-ykn9",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 432203013,
+    "name" : "Zip Codes",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_d7bw_bq6x",
+    "position" : 39,
+    "renderTypeName" : "number",
+    "tableColumnId" : 88871480,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_d7bw-bq6x",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 432203014,
+    "name" : "Municipalities",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_rbt8_3x7n",
+    "position" : 40,
+    "renderTypeName" : "number",
+    "tableColumnId" : 88871481,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_rbt8-3x7n",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 432203015,
+    "name" : "Montgomery County Boundary",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_d9ke_fpxt",
+    "position" : 41,
+    "renderTypeName" : "number",
+    "tableColumnId" : 88871482,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_d9ke-fpxt",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  } ]
